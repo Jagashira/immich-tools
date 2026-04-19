@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Local secrets / env
+.env
+.env.*
+*.pem
+*.key
+
+# Generated reports
+immich_python_report_*.json
+immich_verify_report_*.json
+
+# Logs
+*.log
